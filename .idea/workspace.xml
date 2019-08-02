@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.628752" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/task3/ProgramperTest.java" line="40" />
+    <bookmark url="file://$PROJECT_DIR$/src/zuoye/task1/TigerTest.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c40d702-7dd5-40cb-bcd0-9fd44493fa84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/META-INF/qf.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task1/Apprentice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task1/ShaHeShang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task1/SuWuKong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task1/ZhuBaJie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task2/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task2/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task2/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task2/Programper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task3/Ati.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task3/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task3/Geforce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task3/GraphicsCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/com/task3/ProgramperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/abstract1/AbstractAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/abstract1/AbstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/abstract1/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/abstract1/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/abstract1/Pig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/interface1/ChinaComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/interface1/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/polymorphic/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/polymorphic/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/polymorphic/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/polymorphic/PolymorphicTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day1/polymorphic/sleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/classbox/Innalclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/classbox/TestBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/CarAuto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day2/kaoshi/SquareTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/ExtendsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/JinDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/day31/ObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task1/AbstractTiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task1/Run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task1/TigerOfDongBei.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task1/TigerOfHuaNan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task1/TigerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task2/AbstractGraphicsCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task2/Ati.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task2/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task2/Geforce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task2/MainTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task3/AbstractPisa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task3/BaconPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task3/PisaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task3/PisaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/qf/zuoye/task3/SeafoodPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task1/Apprentice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task1/ShaHeShang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task1/SuWuKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task1/ZhuBaJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task2/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task2/Programper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task3/Ati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task3/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task3/Geforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task3/GraphicsCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task3/ProgramperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/abstract1/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/abstract1/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/abstract1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/abstract1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/abstract1/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/interface1/ChinaComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/interface1/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/polymorphic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/polymorphic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/polymorphic/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/polymorphic/PolymorphicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/polymorphic/sleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/classbox/Innalclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/classbox/TestBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/CarAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kaoshi2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/ExtendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/JinDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task1/AbstractTiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task1/TigerOfDongBei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task1/TigerOfHuaNan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task1/TigerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task2/AbstractGraphicsCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task2/Ati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task2/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task2/Geforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task2/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task3/AbstractPisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task3/BaconPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task3/PisaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task3/PisaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye/task3/SeafoodPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuoye2/task1/StringTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zuoye2/task1/StringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/day1/abstract1/Pig.java" />
+        <option value="$PROJECT_DIR$/src/day1/interface1/Run.java" />
+        <option value="$PROJECT_DIR$/src/day1/interface1/ChinaComputer.java" />
+        <option value="$PROJECT_DIR$/src/day1/interface1/Computer.java" />
+        <option value="$PROJECT_DIR$/src/day1/polymorphic/sleep.java" />
+        <option value="$PROJECT_DIR$/src/day1/polymorphic/Dog.java" />
+        <option value="$PROJECT_DIR$/src/day1/polymorphic/PolymorphicTest.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/Tiger1.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/AbstractTiger.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/Run.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/TigerTest.java" />
+        <option value="$PROJECT_DIR$/src/day1/polymorphic/Cat.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/TigerOfDongBei.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task1/TigerOfHuaNan.java" />
+        <option value="$PROJECT_DIR$/src/com/task3/Computer.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/GraphicsCardTest.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/Pisa.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/Ati.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/Geforce.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/GraphicsCard.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/AbstractGraphicsCard.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/PisaTest.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/BaconPizza.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/SeafoodPizza.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/PisaFactory.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/Computer.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task2/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/zuoye/task3/AbstractPisa.java" />
+        <option value="$PROJECT_DIR$/src/day31/Animal.java" />
+        <option value="$PROJECT_DIR$/src/day1/abstract1/AbstractAnimal.java" />
+        <option value="$PROJECT_DIR$/src/day1/polymorphic/Animal.java" />
+        <option value="$PROJECT_DIR$/src/day2/innalclass/Innal.java" />
+        <option value="$PROJECT_DIR$/src/day2/Innalclass.java" />
+        <option value="$PROJECT_DIR$/src/day31/Dog.java" />
+        <option value="$PROJECT_DIR$/src/day2/classbox/TestBox.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/Task1.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/CarAuto.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/Auto.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/Shape.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/Square.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Phone.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Worker.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Manager.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Sell.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Sale.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/MathUtil.java" />
+        <option value="$PROJECT_DIR$/src/day2/kaoshi2/Student.java" />
+        <option value="$PROJECT_DIR$/src/day2/classbox/Innalclass.java" />
+        <option value="$PROJECT_DIR$/src/zuoye2/task1/StringTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="E:/git-version" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="day31" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zuoye.task2" />
+      <recent name="com.task3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA workspace\qf\src\zuoye\task2" />
+      <recent name="E:\IDEA workspace\qf\src\com\day31" />
+      <recent name="E:\IDEA workspace\qf\src\day1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StringTest.test">
+    <configuration name="PisaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuoye.task3.PisaTest" />
+      <module name="qf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuoye.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.kaoshi.SquareTest" />
+      <module name="qf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.kaoshi.Task1" />
+      <module name="qf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.kaoshi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuoye2.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zuoye2.task1" />
+      <option name="MAIN_CLASS_NAME" value="zuoye2.task1.StringTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBox.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.classbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2.classbox" />
+      <option name="MAIN_CLASS_NAME" value="day2.classbox.TestBox" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTest.test" />
+        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="JUnit.TestBox.test" />
+        <item itemvalue="Application.PisaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c40d702-7dd5-40cb-bcd0-9fd44493fa84" name="Default Changelist" comment="" />
+      <created>1564217142652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564217142652</updated>
+      <workItem from="1564217148892" duration="772000" />
+      <workItem from="1564378338799" duration="121000" />
+      <workItem from="1564378520625" duration="136000" />
+      <workItem from="1564378692267" duration="114000" />
+      <workItem from="1564378839883" duration="1815000" />
+      <workItem from="1564535782182" duration="99000" />
+      <workItem from="1564535947039" duration="12931000" />
+      <workItem from="1564559882853" duration="7106000" />
+      <workItem from="1564572051402" duration="12507000" />
+      <workItem from="1564630639910" duration="25853000" />
+      <workItem from="1564666870917" duration="811000" />
+      <workItem from="1564709982430" duration="4119000" />
+      <workItem from="1564726524587" duration="18202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTest - 2019.07.31 at 16h 04m 25s.xml">
+      <configuration name="TestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTest - 2019.07.31 at 16h 13m 04s.xml">
+      <configuration name="TestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExtends - 2019.07.31 at 17h 20m 04s.xml">
+      <configuration name="TestExtends" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="zuoye_task3_in_qf - 2019.08.01 at 20h 14m 53s.xml">
+      <configuration name="zuoye.task3 in qf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBox_test - 2019.08.02 at 11h 36m 23s.xml">
+      <configuration name="TestBox.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBox_test - 2019.08.02 at 11h 47m 53s.xml">
+      <configuration name="TestBox.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_test - 2019.08.02 at 21h 20m 08s.xml">
+      <configuration name="StringTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_test - 2019.08.02 at 21h 26m 04s.xml">
+      <configuration name="StringTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_test - 2019.08.02 at 21h 27m 15s.xml">
+      <configuration name="StringTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84586000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46587032" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3277592" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/day1/abstract1/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/interface1/ChinaComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/abstract1/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/day1.interface1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>day1.interface1</OriginalElement>
+          <nodes>
+            <node x="" y="">day1.interface1.Computer</node>
+            <node x="" y="">day1.interface1.ChinaComputer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="87.0" y="57.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/day1.abstract1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>day1.abstract1</OriginalElement>
+          <nodes>
+            <node x="" y="">day1.abstract1.Cat</node>
+            <node x="" y="">day1.abstract1.AbstractTest</node>
+            <node x="" y="">day1.abstract1.Pig</node>
+            <node x="" y="">day1.abstract1.Dog</node>
+            <node x="" y="">day1.abstract1.AbstractAnimal</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="96.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/interface1/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/polymorphic/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/polymorphic/PolymorphicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/abstract1/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/polymorphic/sleep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task1/TigerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/polymorphic/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task1/TigerOfHuaNan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/task3/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task1/TigerOfDongBei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/GraphicsCard.java" />
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/Ati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/Geforce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/AbstractGraphicsCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="58" column="22" selection-start-line="54" selection-start-column="9" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task2/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task3/AbstractPisa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/abstract1/AbstractAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day31/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task3/PisaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task3/PisaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day31/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task1/AbstractTiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task3/SeafoodPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/polymorphic/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day31/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye/task3/BaconPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/CarAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="39" lean-forward="true" selection-end-line="44" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="30" selection-end-line="27" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Sell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" lean-forward="true" selection-end-line="68" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/classbox/Innalclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/MathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi2/Sale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="25" column="24" selection-end-line="31" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="7" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/kaoshi/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/classbox/TestBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoye2/task1/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qf</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
