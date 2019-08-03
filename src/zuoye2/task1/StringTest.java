@@ -22,18 +22,29 @@ public class StringTest{
      System.out.println("num1 = " + num1);
      System.out.println("num2 = " + num2);
 
-     System.out.println(num1.equals(num2)); //true
-     System.out.println(num1==(num2)); // true
+     // 打印对象的HashCode
+   System.out.println(System.identityHashCode(num1));
+   System.out.println(System.identityHashCode(num2));
+
+   System.out.println(num1.equals(num2)); //true
+   System.out.println(num1==(num2)); // true
 
 
-     Integer num3=Integer.parseInt("300");
-     Integer num4=Integer.parseInt("300");
+   Integer num3=Integer.parseInt("300");
+   Integer num4=Integer.parseInt("300");
 
-     System.out.println("num3 = " + num3);
-     System.out.println("num4 = " + num4);
+   System.out.println("num3 = " + num3);
+   System.out.println("num4 = " + num4);
 
-     System.out.println(num3.equals(num4)); //true
-     System.out.println(num3==(num4)); // false
+   // 地址不同，值相同
+   System.out.println(num3.equals(num4)); //true
+
+
+   System.out.println(System.identityHashCode(num3));
+   System.out.println(System.identityHashCode(num4));
+
+   // false 比较地址
+   System.out.println(num3==(num4));
  }
 
 
