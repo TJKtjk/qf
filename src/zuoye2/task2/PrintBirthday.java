@@ -45,7 +45,6 @@ public class PrintBirthday {
         calendar.add( Calendar.DAY_OF_MONTH,5);
 
 
-
         //把Calendar转化为Date
         Date date = calendar.getTime();
 

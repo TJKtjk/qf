@@ -20,7 +20,7 @@ public class PrintEvenSum {
             Random rand = new Random();
 
             //int ranNumber =ran.nextInt(max - min + 1) + min;
-            arr[i] = rand.nextInt((32 - 2 + 1)) + 2;
+            arr[i] = rand.nextInt((31) + 2);
 
             if (arr[i] % 2 == 0) {
                 sum += arr[i];

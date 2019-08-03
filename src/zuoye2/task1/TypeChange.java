@@ -14,6 +14,7 @@ public class TypeChange {
         //    字符串  转  对象类型  String --> Integer
         String str="123";
         Integer b=Integer.parseInt(str);
+        System.out.println("b = " + b);
 
 
         // 对象类型  转 字符串  Integer->String
@@ -25,18 +26,23 @@ public class TypeChange {
 
 
        //   对象类型   转 int 类型
-        int s=new Integer(10);
+        Integer b1=new Integer(5);
+        int a=b1.intValue();
+        System.out.println("a = " + a);
+
 
         // int类型  转 对象类型
         int i3=100;
         Integer i4=i3;
-
+        System.out.println("i4 = " + i4);
 
 
         //把字符串 转化  int基本类型  String->int
         int s2 = Integer.parseInt( "10" );
+        System.out.println("s2 = " + s2);
 
-         // int基本类型  转 字符串  int->String
+
+        // int基本类型  转 字符串  int->String
         int i5=10;
         String s3=Integer.toString(i5);
         System.out.println("s3 = " + s3);

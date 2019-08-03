@@ -1,7 +1,5 @@
 package zuoye2.task2;
 
-import org.junit.Test;
-
 /**
  * @author tjk
  * @date 2019/8/3 11:06
@@ -20,11 +18,10 @@ public class EnvSum {
 
 
         int sum = 0;
-        for (int i = 1; i < 10_0000; i=i+2) {
-            if (i==1){ i++;}
-//            if (i % 2 == 1) {
-//                continue;
-//            }
+        for (int i = 0; i < 10_0000; i++) {
+            if (i % 2 == 1) {
+                continue;
+            }
             sum += i;
             if (sum % 200 == 0) {
                 System.err.println("sum = " + sum);
@@ -35,7 +32,7 @@ public class EnvSum {
         System.out.println("endTime = " + endTime);
         System.out.println("startTime = " + startTime);
 
-        long runTime = (endTime - startTime);
+        long runTime = endTime - startTime;
         System.out.println("runTime = " + runTime);
     }
 
