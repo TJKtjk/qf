@@ -8,7 +8,7 @@ import java.util.Arrays;
  */
 public class MyArrays {
 
-    public String getString(String[] array) {
+    private String getString(String[] array) {
         return Arrays.toString(array);
 
     }
