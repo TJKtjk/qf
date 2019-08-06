@@ -22,6 +22,7 @@ public class ExceptionTest {
         try {
             checkdataBase();
         } catch (ConnetException e) {
+            e.printStackTrace();
             throw new NetException("网络异常", e);
         }
     }
@@ -30,6 +31,7 @@ public class ExceptionTest {
         try {
             checkConnet();
         } catch (DataBaseException e) {
+            e.printStackTrace();
             throw new ConnetException(" 连接异常", e);
         }
     }
@@ -38,6 +40,7 @@ public class ExceptionTest {
         try {
             checkClass();
         } catch (ClassException e) {
+            e.printStackTrace();
             throw new DataBaseException(" 连接数据库异常", e);
         }
     }

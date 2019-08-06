@@ -8,6 +8,8 @@ import org.junit.Test;
  */
 public class BoatTest {
 
+    private static final String INFO = "货轮整点起航";
+
 
     //  正常
     @Test
@@ -24,10 +26,11 @@ public class BoatTest {
             m = 500;
             boat.loading(m);
         } catch (DangerException e) {
-            System.out.println( e.warnMess());
+            e.printStackTrace();
+            System.out.println(e.warnMess());
             System.out.println("无法再装" + m + "吨的货物");
         } finally {
-            System.out.println("货轮整点起航");
+            System.out.println(INFO);
         }
     }
 
@@ -46,13 +49,13 @@ public class BoatTest {
             boat.loading(m);
             m = 500;
             boat.loading(m);
-            return ;
+            return;
         } catch (DangerException e) {
-
-            System.out.println( e.warnMess());
+            e.printStackTrace();
+            System.out.println(e.warnMess());
             System.out.println("无法再装" + m + "吨的货物");
         } finally {
-            System.out.println("货轮整点起航");
+            System.out.println(INFO);
         }
     }
 
@@ -71,14 +74,14 @@ public class BoatTest {
             m = 500;
             boat.loading(m);
 
-            System.exit(0);
+//            System.exit(0);
 
         } catch (DangerException e) {
-
-            System.out.println( e.warnMess());
+            e.printStackTrace();
+            System.out.println(e.warnMess());
             System.out.println("无法再装" + m + "吨的货物");
         } finally {
-            System.out.println("货轮整点起航");
+            System.out.println(INFO);
         }
     }
 

@@ -33,7 +33,7 @@ public class Division {
                 int n1 = Integer.parseInt(number1);
                 int n2 = Integer.parseInt(number2);
 
-                if(n1 < 0 | n2 < 0){
+                if(n1 < 0 || n2 < 0){
                     throw new NegativeNumberException();
                 }
 
@@ -44,11 +44,14 @@ public class Division {
                 flag = false;
             }
             catch (NumberFormatException e) {
+                e.printStackTrace();
                 System.out.println("NumberFormatException! Please try to input again!  ");
             }
             catch (ArithmeticException e){
+                e.printStackTrace();
                 System.out.println("ArithmeticException ! Please try to input again! ");
             } catch (NegativeNumberException e) {
+                e.printStackTrace();
                 System.out.println("NegativeNumberException ! Please try to input again! ");
             }
         }
